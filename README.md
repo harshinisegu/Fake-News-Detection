@@ -1,4 +1,4 @@
-📰 Fake News Detection
+**📰 Fake News Detection**
 An end-to-end Fake News Detection System built using Natural Language Processing and Machine Learning to classify news articles as Real or Fake.This project includes model training, saved ML artifacts, and a deployable application interface.
 
 🚀 Project Highlights
