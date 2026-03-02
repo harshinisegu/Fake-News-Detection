@@ -4,10 +4,15 @@ An end-to-end Fake News Detection System built using Natural Language Processing
 # 🚀 Project Highlights
 
 Text preprocessing using NLP techniques
+
 TF-IDF Vectorization
+
 Logistic Regression model
+
 92% accuracy achieved
+
 Saved trained model and vectorizer for reuse
+
 Deployable Python application (app.py)
 
 # 📂 Project Structure
