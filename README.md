@@ -1,7 +1,7 @@
-**📰 Fake News Detection**
+# 📰 Fake News Detection
 An end-to-end Fake News Detection System built using Natural Language Processing and Machine Learning to classify news articles as Real or Fake.This project includes model training, saved ML artifacts, and a deployable application interface.
 
-🚀 Project Highlights
+# 🚀 Project Highlights
 
 Text preprocessing using NLP techniques
 TF-IDF Vectorization
@@ -10,7 +10,7 @@ Logistic Regression model
 Saved trained model and vectorizer for reuse
 Deployable Python application (app.py)
 
-📂 Project Structure
+# 📂 Project Structure
 Fake-News-Detection/
 │
 ├── app.ipynb          # Model training & experimentation
@@ -19,7 +19,7 @@ Fake-News-Detection/
 ├── vectorizer.jb      # Saved TF-IDF vectorizer
 ├── requirements.txt   # Required libraries
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 1️⃣ User enters a news article
 2️⃣ Text is cleaned and preprocessed
@@ -27,7 +27,7 @@ Fake-News-Detection/
 4️⃣ Trained Logistic Regression model predicts output
 5️⃣ System displays: Real News or Fake News
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 Scikit-learn
@@ -36,7 +36,7 @@ NLTK
 Joblib
 Streamlit / Flask (if used in app.py, update accordingly)
 
-📊 Model Performance
+# 📊 Model Performance
 
 Accuracy: 92%
 Evaluation Metrics:
@@ -45,14 +45,14 @@ Recall
 F1-Score
 Confusion Matrix
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Integration with real-time news APIs
 Upgrade to Deep Learning models (LSTM, BERT)
 Deploy on cloud platforms (Render, AWS, Azure)
 Add Explainable AI (XAI) for prediction transparency
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Built a complete ML pipeline
 Understood model serialization using Joblib
